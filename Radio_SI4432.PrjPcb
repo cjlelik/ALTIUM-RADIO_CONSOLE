@@ -1658,316 +1658,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Button.SchLib
-ComponentDesignItemID0=Angular tact button
-ComponentSymbolReference0=Angular tact button
+ComponentLibraryIdentifier0=IC.SchLib
+ComponentDesignItemID0=STM32F405RGT6
+ComponentSymbolReference0=STM32F405RGT6
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Button.SchLib
-ComponentDesignItemID1=Silent Tact Switch
-ComponentSymbolReference1=Silent Tact Switch
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Capacitors.SchLib
-ComponentDesignItemID2=Cap_0402_100nF
-ComponentSymbolReference2=Cap_0402_100nF
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Capacitors.SchLib
-ComponentDesignItemID3=Cap_0402_10uF
-ComponentSymbolReference3=Cap_0402_10uF
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Capacitors.SchLib
-ComponentDesignItemID4=Cap_0402_12pF
-ComponentSymbolReference4=Cap_0402_12pF
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Capacitors.SchLib
-ComponentDesignItemID5=Cap_0402_15pF
-ComponentSymbolReference5=Cap_0402_15pF
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Capacitors.SchLib
-ComponentDesignItemID6=Cap_0402_1uF
-ComponentSymbolReference6=Cap_0402_1uF
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Capacitors.SchLib
-ComponentDesignItemID7=Cap_0402_2.2uF
-ComponentSymbolReference7=Cap_0402_2.2uF
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Capacitors.SchLib
-ComponentDesignItemID8=Cap_0402_22nF
-ComponentSymbolReference8=Cap_0402_22nF
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=Capacitors.SchLib
-ComponentDesignItemID9=Cap_0402_22pF
-ComponentSymbolReference9=Cap_0402_22pF
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=Capacitors.SchLib
-ComponentDesignItemID10=Cap_0402_33pF
-ComponentSymbolReference10=Cap_0402_33pF
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=Capacitors.SchLib
-ComponentDesignItemID11=Cap_0402_4.7uF
-ComponentSymbolReference11=Cap_0402_4.7uF
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=Capacitors.SchLib
-ComponentDesignItemID12=Tantalum_TYPE-B
-ComponentSymbolReference12=Tantalum_TYPE-B
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=Connectors.SchLib
-ComponentDesignItemID13=Jack3.5_male
-ComponentSymbolReference13=Jack3.5_male
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=Connectors.SchLib
-ComponentDesignItemID14=USB_Type-c_0.8mm
-ComponentSymbolReference14=USB_Type-c_0.8mm
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=Diode.SchLib
-ComponentDesignItemID15=0805_LED_GREEN
-ComponentSymbolReference15=0805_LED_GREEN
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=Diode.SchLib
-ComponentDesignItemID16=0805_LED_RED
-ComponentSymbolReference16=0805_LED_RED
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=Diode.SchLib
-ComponentDesignItemID17=2835 Led
-ComponentSymbolReference17=2835 Led
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=Diode.SchLib
-ComponentDesignItemID18=BAT54 KL4
-ComponentSymbolReference18=BAT54 KL4
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=Diode.SchLib
-ComponentDesignItemID19=SS34
-ComponentSymbolReference19=SS34
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=IC.SchLib
-ComponentDesignItemID20=NCP1529-D
-ComponentSymbolReference20=NCP1529-D
-ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=IC.SchLib
-ComponentDesignItemID21=STM32F103RBT6
-ComponentSymbolReference21=STM32F103RBT6
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=IC.SchLib
-ComponentDesignItemID22=TP4056
-ComponentSymbolReference22=TP4056
-ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=IC.SchLib
-ComponentDesignItemID23=W25Q32FVSIG
-ComponentSymbolReference23=W25Q32FVSIG
-ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
-ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=Inductors.SchLib
-ComponentDesignItemID24=0805
-ComponentSymbolReference24=0805
-ComponentUpdate24=1
-ComponentIsDeviceSheet24=0
-ComponentLibIdentifierKind25=Library Name And Type
-ComponentLibraryIdentifier25=Inductors.SchLib
-ComponentDesignItemID25=CD32
-ComponentSymbolReference25=CD32
-ComponentUpdate25=1
-ComponentIsDeviceSheet25=0
-ComponentLibIdentifierKind26=Library Name And Type
-ComponentLibraryIdentifier26=LCD.SchLib
-ComponentDesignItemID26=LCD_UC1601s
-ComponentSymbolReference26=LCD_UC1601s
-ComponentUpdate26=1
-ComponentIsDeviceSheet26=0
-ComponentLibIdentifierKind27=Library Name And Type
-ComponentLibraryIdentifier27=Misc.SchLib
-ComponentDesignItemID27=18650_X2_holder
-ComponentSymbolReference27=18650_X2_holder
-ComponentUpdate27=1
-ComponentIsDeviceSheet27=0
-ComponentLibIdentifierKind28=Library Name And Type
-ComponentLibraryIdentifier28=Misc.SchLib
-ComponentDesignItemID28=CSTCE3213
-ComponentSymbolReference28=CSTCE3213
-ComponentUpdate28=1
-ComponentIsDeviceSheet28=0
-ComponentLibIdentifierKind29=Library Name And Type
-ComponentLibraryIdentifier29=Misc.SchLib
-ComponentDesignItemID29=Probe_0.5mm
-ComponentSymbolReference29=Probe_0.5mm
-ComponentUpdate29=1
-ComponentIsDeviceSheet29=0
-ComponentLibIdentifierKind30=Library Name And Type
-ComponentLibraryIdentifier30=Misc.SchLib
-ComponentDesignItemID30=Probe_1mm
-ComponentSymbolReference30=Probe_1mm
-ComponentUpdate30=1
-ComponentIsDeviceSheet30=0
-ComponentLibIdentifierKind31=Library Name And Type
-ComponentLibraryIdentifier31=Misc.SchLib
-ComponentDesignItemID31=Quarz 32.768kHz
-ComponentSymbolReference31=Quarz 32.768kHz
-ComponentUpdate31=1
-ComponentIsDeviceSheet31=0
-ComponentLibIdentifierKind32=Library Name And Type
-ComponentLibraryIdentifier32=Module.SchLib
-ComponentDesignItemID32=RRD-102(RDA5807M)
-ComponentSymbolReference32=RRD-102(RDA5807M)
-ComponentUpdate32=1
-ComponentIsDeviceSheet32=0
-ComponentLibIdentifierKind33=Library Name And Type
-ComponentLibraryIdentifier33=Module.SchLib
-ComponentDesignItemID33=SI4432
-ComponentSymbolReference33=SI4432
-ComponentUpdate33=1
-ComponentIsDeviceSheet33=0
-ComponentLibIdentifierKind34=Library Name And Type
-ComponentLibraryIdentifier34=OpAmp.SchLib
-ComponentDesignItemID34=AD5841ART
-ComponentSymbolReference34=AD5841ART
-ComponentUpdate34=1
-ComponentIsDeviceSheet34=0
-ComponentLibIdentifierKind35=Library Name And Type
-ComponentLibraryIdentifier35=Resistors.SchLib
-ComponentDesignItemID35=Res_0402_1.2K
-ComponentSymbolReference35=Res_0402_1.2K
-ComponentUpdate35=1
-ComponentIsDeviceSheet35=0
-ComponentLibIdentifierKind36=Library Name And Type
-ComponentLibraryIdentifier36=Resistors.SchLib
-ComponentDesignItemID36=Res_0402_100K
-ComponentSymbolReference36=Res_0402_100K
-ComponentUpdate36=1
-ComponentIsDeviceSheet36=0
-ComponentLibIdentifierKind37=Library Name And Type
-ComponentLibraryIdentifier37=Resistors.SchLib
-ComponentDesignItemID37=Res_0402_10K
-ComponentSymbolReference37=Res_0402_10K
-ComponentUpdate37=1
-ComponentIsDeviceSheet37=0
-ComponentLibIdentifierKind38=Library Name And Type
-ComponentLibraryIdentifier38=Resistors.SchLib
-ComponentDesignItemID38=Res_0402_13R
-ComponentSymbolReference38=Res_0402_13R
-ComponentUpdate38=1
-ComponentIsDeviceSheet38=0
-ComponentLibIdentifierKind39=Library Name And Type
-ComponentLibraryIdentifier39=Resistors.SchLib
-ComponentDesignItemID39=Res_0402_1K
-ComponentSymbolReference39=Res_0402_1K
-ComponentUpdate39=1
-ComponentIsDeviceSheet39=0
-ComponentLibIdentifierKind40=Library Name And Type
-ComponentLibraryIdentifier40=Resistors.SchLib
-ComponentDesignItemID40=Res_0402_200K
-ComponentSymbolReference40=Res_0402_200K
-ComponentUpdate40=1
-ComponentIsDeviceSheet40=0
-ComponentLibIdentifierKind41=Library Name And Type
-ComponentLibraryIdentifier41=Resistors.SchLib
-ComponentDesignItemID41=Res_0402_200R
-ComponentSymbolReference41=Res_0402_200R
-ComponentUpdate41=1
-ComponentIsDeviceSheet41=0
-ComponentLibIdentifierKind42=Library Name And Type
-ComponentLibraryIdentifier42=Resistors.SchLib
-ComponentDesignItemID42=Res_0402_20R
-ComponentSymbolReference42=Res_0402_20R
-ComponentUpdate42=1
-ComponentIsDeviceSheet42=0
-ComponentLibIdentifierKind43=Library Name And Type
-ComponentLibraryIdentifier43=Resistors.SchLib
-ComponentDesignItemID43=Res_0402_220K
-ComponentSymbolReference43=Res_0402_220K
-ComponentUpdate43=1
-ComponentIsDeviceSheet43=0
-ComponentLibIdentifierKind44=Library Name And Type
-ComponentLibraryIdentifier44=Resistors.SchLib
-ComponentDesignItemID44=Res_0402_240K
-ComponentSymbolReference44=Res_0402_240K
-ComponentUpdate44=1
-ComponentIsDeviceSheet44=0
-ComponentLibIdentifierKind45=Library Name And Type
-ComponentLibraryIdentifier45=Resistors.SchLib
-ComponentDesignItemID45=Res_0402_2K
-ComponentSymbolReference45=Res_0402_2K
-ComponentUpdate45=1
-ComponentIsDeviceSheet45=0
-ComponentLibIdentifierKind46=Library Name And Type
-ComponentLibraryIdentifier46=Resistors.SchLib
-ComponentDesignItemID46=Res_0402_3.3K
-ComponentSymbolReference46=Res_0402_3.3K
-ComponentUpdate46=1
-ComponentIsDeviceSheet46=0
-ComponentLibIdentifierKind47=Library Name And Type
-ComponentLibraryIdentifier47=Resistors.SchLib
-ComponentDesignItemID47=Res_0402_75K
-ComponentSymbolReference47=Res_0402_75K
-ComponentUpdate47=1
-ComponentIsDeviceSheet47=0
-ComponentLibIdentifierKind48=Library Name And Type
-ComponentLibraryIdentifier48=Resistors.SchLib
-ComponentDesignItemID48=Res_0402_910K
-ComponentSymbolReference48=Res_0402_910K
-ComponentUpdate48=1
-ComponentIsDeviceSheet48=0
-ComponentLibIdentifierKind49=Library Name And Type
-ComponentLibraryIdentifier49=Transistors.SchLib
-ComponentDesignItemID49=A03400
-ComponentSymbolReference49=A03400
-ComponentUpdate49=1
-ComponentIsDeviceSheet49=0
-ComponentLibIdentifierKind50=Library Name And Type
-ComponentLibraryIdentifier50=Transistors.SchLib
-ComponentDesignItemID50=A03401
-ComponentSymbolReference50=A03401
-ComponentUpdate50=1
-ComponentIsDeviceSheet50=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1981,128 +1681,27 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Color
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Component Type
 ParameterUpdate2=1
-ParameterName3=Component Type
+ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=ComponentLink1Description
+ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=ComponentLink1URL
+ParameterName5=Manufacturer
 ParameterUpdate5=1
-ParameterName6=Description
+ParameterName6=Name
 ParameterUpdate6=1
-ParameterName7=Id
+ParameterName7=Package
 ParameterUpdate7=1
-ParameterName8=Library Reference
-ParameterUpdate8=1
-ParameterName9=Manufacturer
-ParameterUpdate9=1
-ParameterName10=Name
-ParameterUpdate10=1
-ParameterName11=Package
-ParameterUpdate11=1
-ParameterName12=Parameter 1
-ParameterUpdate12=1
-ParameterName13=Part Type
-ParameterUpdate13=1
-ParameterName14=Power Rating
-ParameterUpdate14=1
-ParameterName15=Rds
-ParameterUpdate15=1
-ParameterName16=Size
-ParameterUpdate16=1
-ParameterName17=Tolerance
-ParameterUpdate17=1
-ParameterName18=Value
-ParameterUpdate18=1
-ParameterName19=Vds
-ParameterUpdate19=1
-ParameterName20=Voltage
-ParameterUpdate20=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0805_LED_GREEN
+ModelName0=LQFP-64
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=0805_LED_RED
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=18650_X2
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=2835 LED
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=Cap_0402
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=Cap_0805
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=CD32
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=DO-214AA
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=Jack3.5_male
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=LCD_connector_14PIN_0.5mm
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=LQFP-64
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=Probe_0.5mm
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=Probe_1mm
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=Quartz MEMS CSTCE
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=Quarz FC-135
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=Res_0402
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=RRD-102
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=SI4432
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=SOIC8
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=SOP-8-with thermal pad
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=SOT-23
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=SOT-23-5
-ModelUpdate21=1
-ModelType22=PCBLIB
-ModelName22=Tact Switch_6*6*5mm
-ModelUpdate22=1
-ModelType23=PCBLIB
-ModelName23=Tact_button_3X6X3.5mm
-ModelUpdate23=1
-ModelType24=PCBLIB
-ModelName24=Tantalum TYPE-B
-ModelUpdate24=1
-ModelType25=PCBLIB
-ModelName25=Type-c_0.8
-ModelUpdate25=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -2112,44 +1711,47 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=3V3|NetColor=clRed
-Net2=NetName=GND|NetColor=$00CC5511
-Net3=NetName=HEADPHONE_PR|NetColor=$001D7638
-Net4=NetName=LCD_CD|NetColor=clFuchsia
-Net5=NetName=LCD_PWM|NetColor=clFuchsia
-Net6=NetName=LCD_RST|NetColor=clFuchsia
-Net7=NetName=N00000|NetColor=$001D7638
-Net8=NetName=NetC?_1|NetColor=clBlack
-Net9=NetName=NetC15_1|NetColor=clRed
-Net10=NetName=NetM?_2|NetColor=$00A07BC2
-Net11=NetName=NetM?_3|NetColor=$00A07BC2
-Net12=NetName=NetM?_4|NetColor=$00A07BC2
-Net13=NetName=NetM?_5|NetColor=$00A07BC2
-Net14=NetName=NetM?_6|NetColor=$00A07BC2
-Net15=NetName=NetM?_7|NetColor=$00A07BC2
-Net16=NetName=NetR?_1|NetColor=$001D7638
-Net17=NetName=NetR26_1|NetColor=clFuchsia
-Net18=NetName=NetVD?_2|NetColor=clRed
-Net19=NetName=NetW1_CD|NetColor=clFuchsia
-Net20=NetName=NetW1_CS|NetColor=clFuchsia
-Net21=NetName=NetW1_RST|NetColor=clFuchsia
-Net22=NetName=NetW1_SCK|NetColor=clFuchsia
-Net23=NetName=NetW1_SDA|NetColor=clFuchsia
-Net24=NetName=PWM_SPEAKER_L|NetColor=$001D7638
-Net25=NetName=PWM_SPEAKER_R|NetColor=$001D7638
-Net26=NetName=PWM_SPEAKER_VOL|NetColor=$001D7638
-Net27=NetName=SI_IRQ|NetColor=$00A07BC2
-Net28=NetName=SI_SDN|NetColor=$00A07BC2
-Net29=NetName=SPI1_CS|NetColor=clFuchsia
-Net30=NetName=SPI1_MOSI|NetColor=clFuchsia
-Net31=NetName=SPI1_SCK|NetColor=clFuchsia
-Net32=NetName=SPI2_CS|NetColor=$00A07BC2
-Net33=NetName=SPI2_MISO|NetColor=$00A07BC2
-Net34=NetName=SPI2_MOSI|NetColor=$00A07BC2
-Net35=NetName=SPI2_SCK|NetColor=$00A07BC2
-Net36=NetName=SW_CLK|NetColor=clAqua
-Net37=NetName=SW_DIO|NetColor=clAqua
-Net38=NetName=UART_DBG_RX|NetColor=clAqua
-Net39=NetName=UART_DBG_TX|NetColor=clAqua
+Net2=NetName=DAC_L|NetColor=clBlack
+Net3=NetName=DAC_R|NetColor=clBlack
+Net4=NetName=GND|NetColor=$00CC5511
+Net5=NetName=HEADPHONE_PR|NetColor=$001D7638
+Net6=NetName=LCD_CD|NetColor=clFuchsia
+Net7=NetName=LCD_PWM|NetColor=clFuchsia
+Net8=NetName=LCD_RST|NetColor=clFuchsia
+Net9=NetName=N00000|NetColor=$001D7638
+Net10=NetName=NetC?_1|NetColor=clBlack
+Net11=NetName=NetC15_1|NetColor=clRed
+Net12=NetName=NetM?_2|NetColor=$00A07BC2
+Net13=NetName=NetM?_3|NetColor=$00A07BC2
+Net14=NetName=NetM?_4|NetColor=$00A07BC2
+Net15=NetName=NetM?_5|NetColor=$00A07BC2
+Net16=NetName=NetM?_6|NetColor=$00A07BC2
+Net17=NetName=NetM?_7|NetColor=$00A07BC2
+Net18=NetName=NetR?_1|NetColor=clBlack
+Net19=NetName=NetR26_1|NetColor=clFuchsia
+Net20=NetName=NetVD?_2|NetColor=clRed
+Net21=NetName=NetW1_CD|NetColor=clFuchsia
+Net22=NetName=NetW1_CS|NetColor=clFuchsia
+Net23=NetName=NetW1_RST|NetColor=clFuchsia
+Net24=NetName=NetW1_SCK|NetColor=clFuchsia
+Net25=NetName=NetW1_SDA|NetColor=clFuchsia
+Net26=NetName=PWM_SPEAKER_L|NetColor=$001D7638
+Net27=NetName=PWM_SPEAKER_R|NetColor=$001D7638
+Net28=NetName=PWM_SPEAKER_VOL|NetColor=$001D7638
+Net29=NetName=PWM_VOL|NetColor=clBlack
+Net30=NetName=SI_IRQ|NetColor=$00A07BC2
+Net31=NetName=SI_SDN|NetColor=$00A07BC2
+Net32=NetName=SPI1_CS|NetColor=clFuchsia
+Net33=NetName=SPI1_MOSI|NetColor=clFuchsia
+Net34=NetName=SPI1_SCK|NetColor=clFuchsia
+Net35=NetName=SPI2_CS|NetColor=$00A07BC2
+Net36=NetName=SPI2_MISO|NetColor=$00A07BC2
+Net37=NetName=SPI2_MOSI|NetColor=$00A07BC2
+Net38=NetName=SPI2_SCK|NetColor=$00A07BC2
+Net39=NetName=SW_CLK|NetColor=clAqua
+Net40=NetName=SW_DIO|NetColor=clAqua
+Net41=NetName=UART_DBG_RX|NetColor=clAqua
+Net42=NetName=UART_DBG_TX|NetColor=clAqua
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
